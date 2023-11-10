@@ -3,3 +3,4 @@ numpy
 gunicorn
 joblib
 django
+rest_framework
